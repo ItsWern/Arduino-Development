@@ -1,7 +1,6 @@
 /*
- *  This sketch demonstrates how to scan WiFi networks. 
- *  The API is almost the same as with the WiFi Shield library, 
- *  the most obvious difference being the different file you need to include:
+ *  This sketch is for initial testing of the ESP8266. 
+ *  including WiFi testing and I2C devices (BME280 and SSD1306)
  */
 #include "ESP8266WiFi.h"
 #include <Adafruit_BME280.h>
